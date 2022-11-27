@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HIeHK9PwHhRWAVVDwdGi8J6oVMTHCmkc/22kr2E8mn4EhBru7t0K2L7Q/M+CgpxEwb6JK+gDpSVqtmTZN8DYTg==",
+  "success": true,
+  "projectFilePath": "D:\\Programação\\C#\\WebScraipingHttpsAPI\\WebScraipingHttpsAPI\\WebScraipingHttpsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leo\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
